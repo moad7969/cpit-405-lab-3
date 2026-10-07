@@ -1,0 +1,9 @@
+/* External CSS: Part 1 - style the <img> using the .image-preview class and a descendant selector */
+.image-preview img {
+  border-style: solid;
+  border-width: 30px;
+  border-top-color: skyblue;
+  border-right-color: lightpink;
+  border-bottom-color: lightgreen;
+  border-left-color: #ffefd5;
+}
